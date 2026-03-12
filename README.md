@@ -2,24 +2,9 @@
   <img width="350" height="350" src="images/awesome-cybersecurity-handbooks.webp">
 </p>
 
-# Awesome Cybersecurity Handbooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# CyberSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > **cybersec-notes** — Curated cybersecurity handbooks, cheat sheets, and notes for red team, pentest, DFIR, and defensive security.
-
-![GitHub stars](https://img.shields.io/github/stars/0xsyr0/Awesome-Cybersecurity-Handbooks?logoColor=yellow) ![GitHub forks](https://img.shields.io/github/forks/0xsyr0/Awesome-Cybersecurity-Handbooks?logoColor=purple) ![GitHub watchers](https://img.shields.io/github/watchers/0xsyr0/Awesome-Cybersecurity-Handbooks?logoColor=green)</br>
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/0xsyr0/Awesome-Cybersecurity-Handbooks) ![GitHub contributors](https://img.shields.io/github/contributors/0xsyr0/Awesome-Cybersecurity-Handbooks)
-
-A huge chunk of my personal notes since I started playing CTFs and working as a red teamer. These are living documents and I updated or add to them relatively often.
-
-> [!IMPORTANT]
-> Please note that these documents are **only** provided for **legal purposes**. Please do **not** use the content for illigal actions.
-
-If you like the project, give it a :star: or share it on various platforms. My goal is to create and to gather resources for people to help them on their career.
-
-> [!NOTE]
-> As always, it is pretty hard to point out every source for different tools or payloads. If I used your payload anywhere in my notes and you wanted to be mentioned, feel free to reach out to me on [X](https://twitter.com/syr0_) — or preferably [Bluesky](https://bsky.app/profile/0xsyr0.bsky.social) — and I will add you asap.
-
-Thank you for reading.
 
 **Tamilselvan Cybersecurity** — Connect · Network: [GitHub](https://github.com/Tamilselvan-S-Cyber-Security) · [Website](https://tamilselvan-official.web.app/) · [LinkedIn](https://in.linkedin.com/in/tamil-selvan-383618304)
 
@@ -47,3 +32,4 @@ Each handbook includes **More contents** (additional resources and references), 
 | [12 Reporting Tools](12_reporting_tools.md) | [Delivery](delivery.md) | [Payloads](payloads.md) |  |
 | [13 Social Engineering Tools](13_social_engineering_tools.md) | [Detection Engineering](detection_engineering.md) | [Persistence](persistence.md) |  |
 | [AI & ML](ai_and_ml.md) | [DFIR](dfir.md) | [Privacy](privacy.md) |  |
+
