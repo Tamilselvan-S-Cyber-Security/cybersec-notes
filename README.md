@@ -6,8 +6,7 @@
 **Tamilselvan Cybersecurity** — Connect · Network: [GitHub](https://github.com/Tamilselvan-S-Cyber-Security) · [Website](https://tamilselvan-official.web.app/) · [LinkedIn](https://in.linkedin.com/in/tamil-selvan-383618304)
 
 ### More contents · More tables · Tools and commands · Payloads table
-
-Each handbook includes **More contents** (additional resources and references), **More tables** (quick-reference tables), **Tools and commands** (key tools and example commands), and a **Payloads table** (payload types and references per topic). See the end of any handbook for these sections and the **Connections** block.
+Each handbook follows the same cybersec-notes layout and ends with: More contents (extra reading, references, and links), More tables (quick-reference tables and checklists), Tools and commands (commonly used tools + example commands), and a Payloads table (common payload patterns and references for the topic). See the end of any handbook for these sections and the Connections block (related topics to jump to next).
 
 <br>
 
