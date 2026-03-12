@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="350" height="350" src="images/awesome-cybersecurity-handbooks.webp">
+  <img width="350" height="350" src="cybersec/logo.png">
 </p>
-
-# CyberSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > **cybersec-notes** — Curated cybersecurity handbooks, cheat sheets, and notes for red team, pentest, DFIR, and defensive security.
 
@@ -32,4 +30,5 @@ Each handbook includes **More contents** (additional resources and references), 
 | [12 Reporting Tools](12_reporting_tools.md) | [Delivery](delivery.md) | [Payloads](payloads.md) |  |
 | [13 Social Engineering Tools](13_social_engineering_tools.md) | [Detection Engineering](detection_engineering.md) | [Persistence](persistence.md) |  |
 | [AI & ML](ai_and_ml.md) | [DFIR](dfir.md) | [Privacy](privacy.md) |  |
+
 
